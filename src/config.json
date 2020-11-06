@@ -1,0 +1,14 @@
+{
+    "QA":{
+        "PATH_CHROME":"F:\\learingautomatization\\utilitarios\\chromedriver.exe",
+        "URL_SB":"https://sb2qa.somosbelcorp.com/",
+        "URL_VELOCITY":"https://velocity.belcorp.biz/",
+        "URL_SOPORTESOMOSBELCORP":"http://soporteqa.somosbelcorp.com/"
+    },
+    "PRD":{
+        "PATH_CHROME":"F:\\learingautomatization\\utilitarios\\chromedriver.exe",
+        "URL_SB":"https://www.somosbelcorp.com/",
+        "URL_VELOCITY":"https://velocity.belcorp.biz/",
+        "URL_SOPORTESOMOSBELCORP":"http://soporte.somosbelcorp.com/"
+    }
+}
